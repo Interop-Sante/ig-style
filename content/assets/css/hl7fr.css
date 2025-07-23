@@ -1,12 +1,5 @@
 /* Product families should override the following two colors with family-specific colors */
 
-/*-- color definitions --*/
-
-/* defintion main colors */
-
-/* 1. Status text color */
-
-
 :root {
     --ig-status-text-color: #005aa8;
     --navbar-bg-color: #005aa8; /* 2. Header container color */
@@ -120,7 +113,7 @@ p.schema img {
 /* --- table -- */
 
 .table-is > thead {
-    background-color: #005aa8;
+    background-color: var(--navbar-bg-color);
     color: white;
     padding: 1rem;
 }
