@@ -1,4 +1,4 @@
-# 
+# ig-style
 
 Ce dépôt constitue la base UI/UX des guides d’implémentation FHIR développés sous l’égide de l’association Interop’Santé.
 
