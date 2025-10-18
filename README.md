@@ -1,5 +1,10 @@
-# ig-template-base
-package-id = fhir.france.template
+# ig-style
 
-Ce repo est le template de base d'HL7 France. Il va définir les images ainsi que le style des implementation guides générés pour la France.
-Pour voir créer un implementation guide, merci de forker [ce repo](https://github.com/HL7France/fr-ig-template).
+Ce dépôt constitue la base UI/UX des guides d’implémentation FHIR développés sous l’égide de l’association Interop’Santé.
+
+Il contient les feuilles de style (CSS) assurant la conformité des guides avec la charte graphique d’Interop’Santé.
+
+Ce dépôt est peu amené à évoluer et n’est pas utilisé directement dans les projets : il sert de référence commune pour garantir l’homogénéité visuelle et ergonomique des différents guides publiés.
+
+
+Pour voir créer un nouveau guide d'implementation, merci de partir du [squelette de guide d'implémentation](https://github.com/HL7France/fr-ig-template).
